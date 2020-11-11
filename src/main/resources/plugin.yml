@@ -1,0 +1,5 @@
+name: Syringe
+version: @version@
+main: org.syringemc.syringespigot.SyringeSpigot
+api-version: 1.16
+authors: [ SyringeMC ]
